@@ -11,10 +11,13 @@ this is also a bunlder like webpack. it bunlde a project and its dependency into
 
 rollup is a nodejs application
 
-
+## tree shaking
+ 
+https://rollupjs.org/configuration-options/#treeshake
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjU1NDE2MiwtMjgzODg0NzkzXX0=
+eyJoaXN0b3J5IjpbMTM5MzAyODA1OSwxNDM2NTU0MTYyLC0yOD
+M4ODQ3OTNdfQ==
 -->
